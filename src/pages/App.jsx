@@ -1,4 +1,4 @@
-import Button, { Card, Card2 } from "./components/card";
+import Button, { Card, Card2 } from "/src/pages/components/Card.jsx";
 import "./components/app.css";
 export default function App() {
   return (
