@@ -204,7 +204,7 @@ function Section5() {
           color:"white"
         }}
       >
-        <img src="/assets//images/img.png" alt="" />
+        <img src="/assets//images/Group 1193.png" alt="" />
         <p>Посмотреть видео</p>
       </div>
     </section>
