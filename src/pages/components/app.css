@@ -1,0 +1,7 @@
+.backImage{
+background-image: url("/assets/images/img\ \(16\).png");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+padding: 40px;
+}
